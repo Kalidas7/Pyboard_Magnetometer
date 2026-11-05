@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+mag_raw_*.csv
+mag_points_*.csv
